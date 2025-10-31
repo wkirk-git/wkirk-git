@@ -2,5 +2,6 @@
 
 👋 Hello!
 
-* Status:
+== Status:
+
 Currently open for remote employment opportunities in the DevOps space.
