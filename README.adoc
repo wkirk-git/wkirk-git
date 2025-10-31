@@ -10,6 +10,12 @@ Currently open for remote employment opportunities in the DevOps space.
 
 '''
 
+== Meme of The Decade
+
+image::cgpt.png
+
+'''
+
 .From the memoirs of William Kirk:
 [quote,William Kirk]
 “A $0.02 tea bag contains the same amount of inspiration as a $10.00 latte.”
