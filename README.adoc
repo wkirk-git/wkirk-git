@@ -12,10 +12,15 @@ Currently open for remote employment opportunities in the DevOps space.
 
 '''
 
+.From the memoirs of William Kirk:
+[quote,William Kirk]
+“The American stock market has proven itself time over to be outside the realm of rationality. In fact I believe if everyone on the planet died it would continue to exist and pump as long as the trading bots had juice. Everything about it is an automated scam intended to ego stroke people who never learned to be good human beings.”
+
+'''
+
 .From the novel Slaughterhouse-Five:
 [quote,Kurt Vonnegut]
 “America is the wealthiest nation on Earth, but its people are mainly poor, and poor Americans are urged to hate themselves.... It is in fact a crime for an American to be poor, even though America is a nation of poor. Every other nation has folk traditions of men who were poor but extremely wise and virtuous, and therefore more estimable than anyone with power and gold. No such tales are told by American poor. They mock themselves and glorify their betters.”
-
 
 '''
 
