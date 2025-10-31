@@ -2,6 +2,8 @@
 
 👋 Hello! Welcome to my GitHub profile.
 
+It is like _My Space_ only less cool.
+
 == Status:
 
 Currently open for remote employment opportunities in the DevOps space.
