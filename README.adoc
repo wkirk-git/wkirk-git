@@ -4,8 +4,6 @@
 
 It is like *_My Space_* only less cool.
 
-Mark my words, #automation is essential#.
-
 == Status:
 
 Currently open for remote employment opportunities in the DevOps space.
