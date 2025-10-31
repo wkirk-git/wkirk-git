@@ -1,7 +1,9 @@
 = William Kirk
 
-👋 Hello!
+👋 Hello! Welcome to my GitHub profile.
 
 == Status:
 
 Currently open for remote employment opportunities in the DevOps space.
+
+video::fQGbXmkSArs[youtube]
