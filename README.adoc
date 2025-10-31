@@ -12,7 +12,7 @@ Currently open for remote employment opportunities in the DevOps space.
 
 == Meme of The Decade
 
-image::cgpt.png[]
+image::cgpt.png[alt=The dumbest person you know is being told \"You're aboslutely right by ChatGPT\"., height=380]
 
 '''
 
