@@ -7,3 +7,8 @@
 Currently open for remote employment opportunities in the DevOps space.
 
 video::fQGbXmkSArs[youtube]
+++++
+ <iframe width="420" height="315"
+src="https://www.youtube.com/embed/fQGbXmkSArs">
+</iframe> 
+++++
